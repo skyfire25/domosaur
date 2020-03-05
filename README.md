@@ -17,8 +17,8 @@ We'll be writing code that will turn [this page with no JavaScript](https://domo
 What are the steps needed for this?
 
 1. Query the item we want to put a listener on.
-
-` const heading = document.querySelector('h1');`
+'const heading = document.querySelector('h1')';
+ 
 
 Remember that any CSS selector will work, not just tag names!
 
