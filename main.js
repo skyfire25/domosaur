@@ -16,4 +16,5 @@ const wide = function() {
 firstImage.width = '324px'
 }
 
-document.getElementById('mess-with-me').addEventListener("click", font);
+let click= addEventListener
+const button = document.addEventListener("mess-with-me.fontColor");
